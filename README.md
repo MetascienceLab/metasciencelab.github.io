@@ -1,1 +1,2 @@
-# metasciencelab.github.io
+Metascience Research Lab 
+Information School, University of Wisconsin-Madison
